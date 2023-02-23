@@ -1,3 +1,5 @@
+"""1 - Usul """
+
 ls = [5, 1, 35, 21, 'salom', 5, 'A', 'Hayr', 12]
 
 raqam = []
@@ -69,7 +71,7 @@ a.extend(word)
 
 print(a)
 
-"""2 -Usul"""
+"""2 - Usul"""
 
 
 l = [5, 1, 35, 21, 'salom', 5, 'A', 'z', 'Hayr', 12]
